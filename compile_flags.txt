@@ -1,0 +1,4 @@
+-IC:\Users\ugo\Documents\Part_Two\Students_grader
+-std=c++17
+-target
+
